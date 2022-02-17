@@ -21,4 +21,5 @@
 `/leaderboard`
 - show top 5 and bottom 5 users with their balance
 
-- 
+`/bankruptcy`
+- I declare bankruptcy!!!!! 

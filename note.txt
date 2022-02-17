@@ -1,0 +1,20 @@
+/newgame <title> [candidates...]
+開新局, 打名, 打items 
+ 
+/addbalance <user> <amount>
+幫人加錢
+
+/currentgame
+show而家舉行緊嘅局
+ 
+/balance [user]
+default show自己balance 打埋人名就show果條友嘅balance
+
+/placebet <item> <bet>
+落注
+
+/leaderboard
+show頭尾各5個人最多錢最少錢
+
+/bankruptcy
+如果balance=0, 破產, 破產次數加1, 加錢落balance
